@@ -17,7 +17,7 @@ app.get('/',(req, res) =>{
 
 
 
-
+// kjlklhgkdfi
 
 const uri = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASS}@cluster0.mn2bxax.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`;
 
